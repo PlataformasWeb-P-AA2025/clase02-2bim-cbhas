@@ -1,7 +1,7 @@
 from django.contrib import admin
+from .models import Estudiante
 
 # Importar las clases del modelo
-from administrativo.models import Estudiante
 
 # Se crea una clase que hereda
 # de ModelAdmin para el modelo
